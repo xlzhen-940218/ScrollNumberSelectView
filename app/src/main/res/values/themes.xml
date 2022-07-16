@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="ScrollNumberSelectView">
+        <attr name="scroll_end" format="float"/>
+        <attr name="scroll_interval" format="float"/>
+    </declare-styleable>
+</resources>
